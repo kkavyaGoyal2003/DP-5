@@ -1,4 +1,4 @@
-//time complexity- O(N)
+//time complexity- O(N^2)
 //space complexity- O(N)
 import java.util.*;
 public class WordBreak {
